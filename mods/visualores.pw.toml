@@ -1,0 +1,13 @@
+name = "VisualOres"
+filename = "visualores-0.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "21698b439393457235bf580709b5d3805713c905"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4808612
+project-id = 895539

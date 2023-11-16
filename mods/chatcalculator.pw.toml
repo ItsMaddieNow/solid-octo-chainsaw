@@ -1,0 +1,13 @@
+name = "ChatCalculator"
+filename = "ChatCalculator-1.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c9ac78e566913870a1113925dd41fa2a81d11670"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2995734
+project-id = 384920

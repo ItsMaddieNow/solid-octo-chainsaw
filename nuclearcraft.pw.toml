@@ -1,0 +1,13 @@
+name = "NuclearCraft"
+filename = "NuclearCraft-1.0.1.zip"
+side = "both"
+
+[download]
+hash-format = "murmur2"
+hash = "272042835"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2977641
+project-id = 388745
