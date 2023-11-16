@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "TestBuilds/Placeholder-1.0.0.zip"
-hash = "44c04a1e606ee9fc5a216a964e84945fd2e4d42053cc34541a0f5899934a973c"
-
-[[files]]
-file = "TestBuilds/chainsaw 0.0.3.zip"
-hash = "0977f8385bee96c319759ab0e35da0c0745b22cfe177c40314d64da6041eb361"
-
-[[files]]
 file = "mods/ae-additions-extra-cells-2-fork.pw.toml"
 hash = "ec57ba40845c668483e987f4329ad90eeaefc51df4660a3b84a02118c9fcdfb1"
 metafile = true
@@ -240,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/mixin-booter.pw.toml"
-hash = "8935ea958a5b1267afb2a20394fbe18d414b9d68cfd754dd614b2b39f7475de7"
+hash = "8c5afa11a381d6b185cb51969204b7945a002e23533b728ce4c7763a78ebd06f"
 metafile = true
 
 [[files]]
